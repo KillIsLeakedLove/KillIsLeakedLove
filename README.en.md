@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="./README.md"><strong>中文</strong></a>
+  <a href="./README.md">中文</a>
   ·
-  <a href="./README.en.md">English</a>
+  <a href="./README.en.md"><strong>English</strong></a>
 </p>
 
 <p align="center">
@@ -21,32 +21,32 @@
 </p>
 
 <p align="center">
-  <strong>把想法打磨成能跑、能玩、能复用的东西。</strong>
+  <strong>Turning ideas into things that run, feel good, and stay useful.</strong>
 </p>
 
 ---
 
-## 关于我
+## About
 
-我关注游戏手感、交互原型、AI 工具链和实用软件。相比“看起来像项目”，我更在意它是不是真的能运行、能迭代、能给使用者省时间。
+I work around game feel, interactive prototypes, AI-assisted tooling, and practical software. I care less about projects that only look impressive, and more about systems that actually run, evolve, and save people time.
 
-当前重心：
+Current focus:
 
-- 游戏移动、战斗节奏、反馈系统和可玩原型
-- Godot / GDScript 项目结构、工具化和开发体验
-- AI 辅助开发、本地自动化、MCP 工作流和工程提效
-- 把复杂问题拆成清晰、可维护、能交付的小系统
+- Game movement, combat rhythm, feedback systems, and playable prototypes
+- Godot / GDScript architecture, tooling, and developer experience
+- AI-assisted development, local automation, MCP workflows, and engineering leverage
+- Breaking complex ideas into clear, maintainable, shippable systems
 
-## 做事方式
+## Principles
 
-| 原则 | 表达 |
+| Principle | Meaning |
 | --- | --- |
-| 先跑起来 | 先让东西真实可用，再继续打磨强度和边界。 |
-| 重视手感 | 手感、反馈和节奏不是装饰，是核心体验。 |
-| 工具减摩擦 | 好工具应该减少重复劳动，而不是制造新的仪式感。 |
-| 代码能延续 | 代码要能被未来的自己读懂、改动、继续扩展。 |
+| Make it work | Get the thing usable first, then sharpen its strength and boundaries. |
+| Respect the feel | Feel, feedback, and rhythm are not decoration. They are the experience. |
+| Remove friction | Good tools reduce repeated work instead of creating new ceremony. |
+| Build for continuity | Code should stay readable, changeable, and extensible for future work. |
 
-## 技术栈
+## Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot" />
@@ -59,36 +59,36 @@
   <img src="https://img.shields.io/badge/AI%20Workflow-111827?style=flat&logo=openai&logoColor=white" alt="AI workflow" />
 </p>
 
-| 方向 | 用来做什么 |
+| Area | What I use it for |
 | --- | --- |
-| Game Dev | Godot、GDScript、玩法原型、交互手感 |
-| Tooling | Python、Node.js、脚本、本地工作流自动化 |
-| Web | JavaScript、TypeScript、个人站点和公开实验 |
-| AI | MCP 工具、可提示工作流、开发辅助系统 |
+| Game Dev | Godot, GDScript, gameplay prototypes, interaction feel |
+| Tooling | Python, Node.js, scripts, local workflow automation |
+| Web | JavaScript, TypeScript, personal sites, and public experiments |
+| AI | MCP tools, promptable workflows, developer-assist systems |
 
-## 代表项目
+## Featured Work
 
-| Project | 说明 |
+| Project | Description |
 | --- | --- |
-| [KillIsLeakedLove.github.io](https://github.com/KillIsLeakedLove/KillIsLeakedLove.github.io) | 个人网站和公开实验场，用来承载作品、想法和交互展示。 |
-| [god-of-strafe](https://github.com/KillIsLeakedLove/god-of-strafe) | 关注移动、操作反馈和战斗节奏的游戏项目，核心目标是把手感做到位。 |
-| [godot-mcp-pro](https://github.com/KillIsLeakedLove/godot-mcp-pro) | 围绕 Godot 与 AI 工作流的工具项目，让开发过程更顺、更自动化。 |
+| [KillIsLeakedLove.github.io](https://github.com/KillIsLeakedLove/KillIsLeakedLove.github.io) | Personal site and public lab for projects, ideas, and interactive experiments. |
+| [god-of-strafe](https://github.com/KillIsLeakedLove/god-of-strafe) | A game project focused on movement, input feedback, and combat rhythm. |
+| [godot-mcp-pro](https://github.com/KillIsLeakedLove/godot-mcp-pro) | Tooling around Godot and AI workflows for smoother, more automated development. |
 
-## 正在积累
+## Build Log
 
-- 把游戏原型从“能动”推进到“好玩”
-- 把重复操作沉淀成脚本、工具和稳定流程
-- 把 AI 从聊天窗口接进真实工程环境
-- 持续整理项目结构、文档和可复用模块
+- Moving game prototypes from "it moves" to "it feels right"
+- Turning repeated work into scripts, tools, and stable workflows
+- Bringing AI out of chat boxes and into real engineering environments
+- Continuously refining project structure, documentation, and reusable modules
 
-## 数据
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KillIsLeakedLove&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillIsLeakedLove&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-## 联系
+## Contact
 
 - GitHub: [@KillIsLeakedLove](https://github.com/KillIsLeakedLove)
 - Website: [KillIsLeakedLove.github.io](https://KillIsLeakedLove.github.io)
@@ -96,5 +96,5 @@
 ---
 
 <p align="center">
-  <strong>先交付原型，再打磨体验，最后把重复劳动干掉。</strong>
+  <strong>Ship the prototype. Sharpen the feel. Automate the boring parts.</strong>
 </p>
